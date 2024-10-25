@@ -1,0 +1,255 @@
+[
+    {
+        "questionNo": "Q1.",
+        "question": "Convert the following present perfect interrogative sentence to past perfect interrogative sentence: 'Have you finished the report?'",
+        "options": [
+            "Had you finished the report?",
+            "Did you finish the report?",
+            "Have you finished the report?",
+            "Will you finish the report?"
+        ],
+        "correct": 0,
+        "explanation": "The past perfect tense is used to describe an action that was completed before another action in the past. In this case, 'Had you finished the report?' correctly uses the past perfect to ask if the report was completed before another past event."
+    },
+    {
+        "questionNo": "Q2.",
+        "question": "Convert the following present perfect affirmative sentence to past perfect affirmative sentence: 'I have completed my homework.'",
+        "options": [
+            "I had completed my homework.",
+            "I completed my homework.",
+            "I will have completed my homework.",
+            "I am completing my homework."
+        ],
+        "correct": 0,
+        "explanation": "The past perfect tense is used to describe an action that was completed before another action in the past. 'I had completed my homework' indicates that the homework was finished before another past event."
+    },
+    {
+        "questionNo": "Q3.",
+        "question": "Convert the following present perfect affirmative sentence to past perfect affirmative sentence: 'She has never travelled abroad before she joined the company.'",
+        "options": [
+            "She never travelled abroad before she joined the company.",
+            "She had never travelled abroad before she joined the company.",
+            "She will have never travelled abroad before she joined the company.",
+            "She is never travelling abroad before she joined the company."
+        ],
+        "correct": 1,
+        "explanation": "'She had never travelled abroad' uses the past perfect tense to show that her lack of travel occurred before she joined the company."
+    },
+    {
+        "questionNo": "Q4.",
+        "question": "Convert the sentence 'She has completed the project successfully.' to a past perfect interrogative sentence.",
+        "options": [
+            "Was she completed the project successfully?",
+            "Did she had completed the project successfully?",
+            "Had she completed the project successfully?",
+            "Has she completed the project successfully?"
+        ],
+        "correct": 2,
+        "explanation": "To convert the present perfect affirmative sentence ('She has completed the project successfully.') to a past perfect interrogative, change the auxiliary verb 'has' (present perfect) to 'had' (past perfect) to indicate that the action was completed before another point in the past. Then, place 'had' at the beginning of the sentence to form the interrogative structure."
+    },
+    {
+        "questionNo": "Q5.",
+        "question": "Convert the sentence 'They have not finished the report yet.' to a past perfect interrogative negative sentence.",
+        "options": [
+            "Did they not had finished the report yet?",
+            "Had they not finished the report yet?",
+            "Were they not finished the report yet?",
+            "Have they not finished the report yet?"
+        ],
+        "correct": 1,
+        "explanation": "To convert the present perfect negative sentence ('They have not finished the report yet.') to a past perfect interrogative negative, we need to change the auxiliary verb 'have' (present perfect) to 'had' (past perfect) to indicate an action that was not completed before a specific point in the past."
+    },
+    {
+        "questionNo": "Q6.",
+        "question": "Spot the error in the sentence: 'The company has already hired new staff before the merger was announced.'",
+        "options": [
+            "The company has already hired",
+            "new staff",
+            "before the merger was announced",
+            "No error"
+        ],
+        "correct": 0,
+        "explanation": "The sentence uses the present perfect tense ('has hired') with a time expression that refers to the past. The past perfect should be used instead: 'The company had already hired new staff before the merger was announced.'"
+    },
+    {
+        "questionNo": "Q7.",
+        "question": "Spot the error in the sentence: 'Before she had moved to the new city, she has completed her studies.'",
+        "options": [
+            "Before she had moved",
+            "to the new city",
+            "she has completed",
+            "her studies"
+        ],
+        "correct": 2,
+        "explanation": "To maintain consistency, the correct tense for 'completed' is past perfect: 'she had completed her studies.'"
+    },
+    {
+        "questionNo": "Q8.",
+        "question": "Spot the error in the sentence: 'She had finish her report before the deadline.'",
+        "options": [
+            "She had finish",
+            "her report",
+            "before the deadline",
+            "No error"
+        ],
+        "correct": 0,
+        "explanation": "The correct past participle of 'finish' is 'finished,' not 'finish.' The correct sentence should be 'She had finished her report before the deadline.'"
+    },
+    {
+        "questionNo": "Q9.",
+        "question": "Fill in the blanks appropriately: 'By the time she arrived at the party, everyone __________ (already/leave).'",
+        "options": [
+            "had already left",
+            "has already left",
+            "was already leaving",
+            "is already leaving"
+        ],
+        "correct": 0,
+        "explanation": "'Had already left' indicates that the action of leaving was completed before she arrived."
+    },
+    {
+        "questionNo": "Q10.",
+        "question": "Fill in the blanks appropriately: 'They __________ (never/visit) the museum before it closed down last year.'",
+        "options": [
+            "have never visited",
+            "had never visited",
+            "never visited",
+            "were never visiting"
+        ],
+        "correct": 1,
+        "explanation": "'Had never visited' shows that the visiting never occurred up until that past point."
+    },
+    {
+        "questionNo": "Q11.",
+        "question": "Fill in the blanks appropriately: 'When I arrived at the airport, the plane __________ (already/take off).'",
+        "options": [
+            "had already taken off",
+            "has already taken off",
+            "was already taking off",
+            "took off already"
+        ],
+        "correct": 0,
+        "explanation": "'Had already taken off' expresses that the action was completed before my arrival."
+    },
+    {
+        "questionNo": "Q12.",
+        "question": "Fill in the blanks appropriately: 'She __________ (not/finish) the project before the deadline passed.'",
+        "options": [
+            "did not finish",
+            "had not finished",
+            "has not finished",
+            "was not finishing"
+        ],
+        "correct": 1,
+        "explanation": "'Had not finished' indicates that the project was not completed before the deadline."
+    },
+    {
+        "questionNo": "Q13.",
+        "question": "Identify the tense used in the sentence: 'They have completed the renovation of their house.'",
+        "options": [
+            "Simple Past",
+            "Present Perfect",
+            "Present Continuous",
+            "Future Perfect"
+        ],
+        "correct": 1,
+        "explanation": "The sentence uses the present perfect tense, 'have completed,' indicating that the action has occurred at an unspecified time before now."
+    },
+    {
+        "questionNo": "Q14.",
+        "question": "Identify the tense used in the sentence: 'By the time the guests arrived, the host had already prepared the meal.'",
+        "options": [
+            "Simple Past",
+            "Present Perfect",
+            "Past Perfect",
+            "Past Continuous"
+        ],
+        "correct": 2,
+        "explanation": "The sentence uses the past perfect tense, 'had already prepared,' to show that the action was completed before another past action."
+    },
+    {
+        "questionNo": "Q15.",
+        "question": "Identify the tense used in the sentence: 'She had never visited the museum before it closed down last year.'",
+        "options": [
+            "Present Perfect",
+            "Simple Past",
+            "Past Perfect",
+            "Future Perfect"
+        ],
+        "correct": 2,
+        "explanation": "The sentence uses the past perfect tense, 'had never visited,' to indicate that the action was completed before another past action."
+    },
+    {
+        "questionNo": "Q16.",
+        "question": "Identify the tense used in the sentence: 'Have you ever met someone famous?'",
+        "options": [
+            "Simple Past",
+            "Present Perfect",
+            "Present Continuous",
+            "Present Perfect Continuous"
+        ],
+        "correct": 1,
+        "explanation": "The sentence uses the present perfect tense, 'Have you ever met,' to ask about an experience at any time up to now."
+    },
+    {
+        "questionNo": "Q17.",
+        "question": "Choose the correct form of the verb: 'They __________ (not/finish) their project yet.'",
+        "options": [
+            "do not finish",
+            "have not finished",
+            "had not finished",
+            "are not finishing"
+        ],
+        "correct": 1,
+        "explanation": "'Have not finished' indicates that the action of finishing has not occurred up to the present time."
+    },
+    {
+        "questionNo": "Q18.",
+        "question": "Choose the correct form of the verb: '_________ you __________ (ever/visit) the new art gallery?'",
+        "options": [
+            "Do / ever visit",
+            "Have / ever visited",
+            "Had / ever visited",
+            "Will / ever visit"
+        ],
+        "correct": 1,
+        "explanation": "'Have / ever visited' is used to inquire about experiences up to the present moment."
+    },
+    {
+        "questionNo": "Q19.",
+        "question": "Choose the correct form of the verb: 'Why __________ they __________ (not/receive) the email from the client?'",
+        "options": [
+            "did / not receive",
+            "had / not received",
+            "have / not received",
+            "will / not receive"
+        ],
+        "correct": 2,
+        "explanation": "'Have not received' questions why an action has not occurred up to the present time."
+    },
+    {
+        "questionNo": "Q20.",
+        "question": "Choose the correct form of the verb: '_________ she __________ (ever/see) the film before it was released?'",
+        "options": [
+            "Did / ever see",
+            "Had / ever seen",
+            "Has / ever seen",
+            "Will / ever see"
+        ],
+        "correct": 1,
+        "explanation": "'Had / ever seen' is used to inquire about whether the action occurred before another past event."
+    },
+    {
+        "questionNo": "Q21.",
+        "question": "Why __________ they __________ (not/finish) the renovation before the guests arrived?",
+        "options": [
+            "did / not finish",
+            "have / not finished",
+            "had / not finished",
+            "will / not finish"
+        ],
+        "correct": 2,
+        "explanation": "The correct form is 'had not finished' because the past perfect tense is used to question why an action (finishing the renovation) was not completed before another past event (the guests arriving). The negative interrogative form in past perfect is 'Had + subject + not + past participle.'"
+    }
+    
+]
